@@ -2,6 +2,8 @@
 
 Bu proje; MediaPipe ile el işaretleri noktalarını (landmark) çıkarıp, scikit-learn kullanarak basit bir MLP sınıflandırıcı eğiten ve eğitilen modeli kullanarak webcam üzerinden gerçek zamanlı tahmin yapan bir boru hattı içerir.
 
+<img width="320" height="320" alt="ABC_pict" src="https://github.com/user-attachments/assets/f21e8054-d796-4903-83e3-7f1924ac26c7" />
+
 ## Proje Yapısı
 - `veri_toplama.py`: Webcaminizdan her harf için görüntü toplar ve `data/` klasörüne kaydeder.
 - `veri_isleme.py`: Görüntülerden el landmark noktalarını çıkarır ve `data.pickle` dosyasını oluşturur.
