@@ -1,4 +1,4 @@
-# Turkish Sign Language (Letters) Recognition
+# Sign Language (Letters) Recognition
 
 A simple pipeline to collect hand images, extract landmarks with MediaPipe, train an MLP classifier with scikit-learn, and run real-time predictions from the webcam for the Turkish alphabet letters.
 
