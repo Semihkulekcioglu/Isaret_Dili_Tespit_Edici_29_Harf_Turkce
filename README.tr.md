@@ -1,4 +1,4 @@
-# Türk İşaret Dili (Harfler) Tanıma
+# İşaret Dili (Harfler) Tanıma
 
 Bu proje; MediaPipe ile el işaretleri noktalarını (landmark) çıkarıp, scikit-learn kullanarak basit bir MLP sınıflandırıcı eğiten ve eğitilen modeli kullanarak webcam üzerinden gerçek zamanlı tahmin yapan bir boru hattı içerir.
 
