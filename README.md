@@ -2,7 +2,7 @@
 
 A simple pipeline to collect hand images, extract landmarks with MediaPipe, train an MLP classifier with scikit-learn, and run real-time predictions from the webcam for the Turkish alphabet letters.
 
-![isaret-dili-alfabesi(1)](https://github.com/user-attachments/assets/07d815f0-fa57-41a2-ac54-b728e0a9593f)
+<img width="640" height="640" alt="ABC_pict" src="https://github.com/user-attachments/assets/f21e8054-d796-4903-83e3-7f1924ac26c7" />
 
 ## Project Structure
 - `veri_toplama.py`: Collect images per letter from your webcam into `data/`.
