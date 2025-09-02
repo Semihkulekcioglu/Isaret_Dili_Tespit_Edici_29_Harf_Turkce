@@ -26,11 +26,10 @@ ENV/
 logs/
 *.log
 
-# Data & Models
-# Previously ignored to keep repo small. Unignored per user request.
-# /data/
-# /data.pickle
-# /model.p
+# Data & Models (ignored)
+/data/
+/data.pickle
+/model.p
 
 # Build
 build/
